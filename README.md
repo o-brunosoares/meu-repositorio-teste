@@ -1,4 +1,4 @@
-# MEu Repositório de estudos de Git e Github
+# Meu Repositório de estudos de Git e Github
 
 ## Objetivos da aula:
 
