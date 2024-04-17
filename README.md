@@ -8,7 +8,7 @@
 
 3. Fazer Alterações >> Adicionar | Commitar | Enviar arquivos; [ X ]
 
-4. Criar uma nova Branch; [ ]
+4. Criar uma nova Branch; [ X ]
 
 5. Realizar um Pull Request e um Merge; [ ]
 
